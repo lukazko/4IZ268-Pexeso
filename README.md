@@ -1,9 +1,9 @@
 # 4IZ268-Pexeso
 
-##English
+## English
 
 - Simple javascript pexeso game
 
-##Czech
+## Czech
 
 - Jednoduchá hra pexeso vytvořená pomocí javascriptu v rámci domácího úkolu
